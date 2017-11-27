@@ -7,15 +7,15 @@
     <meta name="author" content="">
     <title>Mad ShopPeRs</title>
     <!-- Bootstrap core CSS -->
-    <link href="Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    @Styles.Render("~/bundles/css")
     <!-- Custom fonts for this template -->
-    <link href="Content/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <!-- Plugin CSS -->
-    <link href="Content/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
     <!-- Custom styles for this template -->
-    <link href="Content/css/freelancer.min.css" rel="stylesheet">
+    <link href="~/Content/css/freelancer.min.css" rel="stylesheet">
 </head>
 <body id="page-top">
     <!-- Navigation -->
@@ -243,7 +243,9 @@
     </div>
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
-    @Scripts.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/jqueryval")
+   
+    @Scripts.Render("~/bundles/modernizr")
     @RenderSection("scripts", required: false)
     @*<!-- Bootstrap core JavaScript -->
         <script src="vendor/jquery/jquery.min.js"></script>
