@@ -13,6 +13,9 @@ namespace MadShoppers
                 .Include("~/Content/vendor/bootstrap/css/bootstrap.css")
                  .Include("~/Content/vendor/bootstrap/css/bootstrap.min.css")
                  .Include("~/Content/vendor/bootstrap/css/bootstrap-grid.css")
+                 .Include("~/Content/vendor/font-awesome/css/font-awesome.min.css")
+                 .Include("~/Content/vendor/magnific-popup/magnific-popup.css")
+                 .Include("~/Content/css/freelancer.min.css")
                  );
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                 "~/Scripts/bootstrap.js",

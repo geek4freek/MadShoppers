@@ -56,9 +56,9 @@ c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\bin\Microsoft.Owin.Security.Google.xml
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.csprojResolveAssemblyReference.cache
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.dll
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.pdb
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.Migrations.initialmodel.resources
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.csproj.GenerateResource.Cache
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.Migrations.mainclass.resources
+C:\Users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.csprojResolveAssemblyReference.cache
