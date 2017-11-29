@@ -186,12 +186,17 @@
     <Compile Include="Migrations\201711221148566_mainclass.Designer.cs">
       <DependentUpon>201711221148566_mainclass.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201711290506440_enable_users.cs" />
+    <Compile Include="Migrations\201711290506440_enable_users.Designer.cs">
+      <DependentUpon>201711290506440_enable_users.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customerclass.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\Itemclass.cs" />
     <Compile Include="Models\purchaseclass.cs" />
+    <Compile Include="Models\staticproperties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -339,6 +344,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201711221148566_mainclass.resx">
       <DependentUpon>201711221148566_mainclass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711290506440_enable_users.resx">
+      <DependentUpon>201711290506440_enable_users.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

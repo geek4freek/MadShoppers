@@ -62,3 +62,4 @@ c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.csproj.GenerateResource.Cache
 c:\users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.Migrations.mainclass.resources
 C:\Users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.csprojResolveAssemblyReference.cache
+C:\Users\midhul.n\documents\visual studio 2013\Projects\MadShoppers\MadShoppers\obj\Debug\MadShoppers.Migrations.enable_users.resources
