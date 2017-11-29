@@ -10,7 +10,11 @@
     {
         @Html.AntiForgeryToken()
         <hr />
+<<<<<<< HEAD
         <h4>Feel Free to Make an Account</h4>
+=======
+        <h4>Create a new account.</h4>
+>>>>>>> b08f4be4a9e96f7bac6d2d7d608ede3553b4ca9d
         <hr />
         @Html.ValidationSummary()
         <div class="form-group">
@@ -32,6 +36,7 @@
             </div>
         </div>
         <div class="form-group">
+<<<<<<< HEAD
             @Html.LabelFor(m => m.phonenumber, new { @class = "col-md-2 control-label" })
             <div class="col-md-10">
                 @Html.TextBoxFor(m => m.phonenumber, new { @class="form-control"})
@@ -42,6 +47,12 @@
                 <input type="submit"  class="btn btn-primary" value="Register" />
             </div>
         </div>
+=======
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit"  class="btn btn-primary" value="Register" />
+            </div>
+        </div>
+>>>>>>> b08f4be4a9e96f7bac6d2d7d608ede3553b4ca9d
     }
 </div>
 
